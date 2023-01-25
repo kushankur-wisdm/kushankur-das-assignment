@@ -16,7 +16,7 @@ git commit -m "file added"
 git push
 
 created pull req. from github
-ID:
+ID: 6
 3. created file testing.txt
 
 made readme file. made 2 changes commits
