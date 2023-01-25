@@ -1,0 +1,33 @@
+1. git clone https://github.com/kushankur-wisdm/first-contributions.git
+
+git checkout -b "Kushankur-Das"
+
+branch name : Kushankur-Das
+
+Made changes in contributer's list. added my name.
+
+2. made new branch by name new-branch-kushankur
+
+git checkout -b new-branch-kushankur
+
+added file testing.txt
+git add .
+git commit -m "file added"
+git push
+
+created pull req. from github
+ID:
+3. created file testing.txt
+
+made readme file. made 2 changes commits
+
+
+made new branch
+
+git checkout -b test250123
+
+added a file changes.txt
+
+git add .
+git commit -m "changes.txt"
+git checkout main
